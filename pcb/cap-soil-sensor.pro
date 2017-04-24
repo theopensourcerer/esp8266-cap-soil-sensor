@@ -1,4 +1,4 @@
-update=Tue 28 Mar 2017 17:42:14 BST
+update=Mon 24 Apr 2017 17:40:11 BST
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=/home/alanlord/Personal/Projects/electronics/kicad/libraries/kicad-ESP8266;/home/alanlord/Personal/Projects/electronics/kicad/libraries/kicad-pcblib;/home/alanlord/Personal/Projects/electronics/kicad/libraries/kicad-schlib;/home/alanlord/Personal/Projects/electronics/kicad/libraries/mine.pretty;/home/alanlord/Personal/Projects/electronics/kicad/libraries/my-pcblib;/home/alanlord/Personal/Projects/electronics/kicad/libraries/myelin-kicad-libraries;/home/alanlord/Personal/Projects/electronics/kicad/libraries/cap-sensor.pretty;../../../electronics/kicad/libraries
@@ -75,3 +65,13 @@ LibName33=library/pasv-Bourns
 LibName34=switches
 LibName35=/home/alanlord/Personal/Projects/electronics/kicad/libraries/cap-sensor
 LibName36=library/electomech-misc
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
