@@ -4,8 +4,8 @@
 * [Summary](#summary)
 * [Hardware](#hardware)
 * [Case](#case)
-* [Code] (#code)
-* [Licenses] (#licenses)
+* [Code](#code)
+* [Licenses](#licenses)
 
 ## Summary
 This is a personal project to build a Capacitive Soil Moisture Sensor for my hobby of growing chillies.
