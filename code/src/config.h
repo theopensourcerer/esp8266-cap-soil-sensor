@@ -48,7 +48,7 @@ const char* SENSORNAME = "soilpot1";
 // Topic
 const char* TOPIC = "PT/Soil";
 
-// Deep Sleep (uSec) Debug = 10000000 (10 Seconds). Production: 6000000000 (1 hour)
+// Deep Sleep (uSec) Debug = 10000000 (10 Seconds). Production: 3600000000 (1 hour)
 long deep_sleep = 10000000;
 
 // Timout if WiFi doesn't connect (15000000 = 15seconds)
