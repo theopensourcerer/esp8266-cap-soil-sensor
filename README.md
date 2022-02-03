@@ -1,5 +1,5 @@
 # ESP8266 Capacitive Soil Moisture Sensor
-
+![Image of PCB](https://github.com/theopensourcerer/esp8266-cap-soil-sensor/blob/master/pcb/cap-soil-sensor.png)
 ## Table of Contents
 * [Summary](#summary)
 * [Hardware](#hardware)
